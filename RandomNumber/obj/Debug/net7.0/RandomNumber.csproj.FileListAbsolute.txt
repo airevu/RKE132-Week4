@@ -1,0 +1,15 @@
+/Users/airevuchmann/Projects/Week4Loops/RandomNumber/bin/Debug/net7.0/RandomNumber
+/Users/airevuchmann/Projects/Week4Loops/RandomNumber/bin/Debug/net7.0/RandomNumber.deps.json
+/Users/airevuchmann/Projects/Week4Loops/RandomNumber/bin/Debug/net7.0/RandomNumber.runtimeconfig.json
+/Users/airevuchmann/Projects/Week4Loops/RandomNumber/bin/Debug/net7.0/RandomNumber.dll
+/Users/airevuchmann/Projects/Week4Loops/RandomNumber/bin/Debug/net7.0/RandomNumber.pdb
+/Users/airevuchmann/Projects/Week4Loops/RandomNumber/obj/Debug/net7.0/RandomNumber.csproj.AssemblyReference.cache
+/Users/airevuchmann/Projects/Week4Loops/RandomNumber/obj/Debug/net7.0/RandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/airevuchmann/Projects/Week4Loops/RandomNumber/obj/Debug/net7.0/RandomNumber.AssemblyInfoInputs.cache
+/Users/airevuchmann/Projects/Week4Loops/RandomNumber/obj/Debug/net7.0/RandomNumber.AssemblyInfo.cs
+/Users/airevuchmann/Projects/Week4Loops/RandomNumber/obj/Debug/net7.0/RandomNumber.csproj.CoreCompileInputs.cache
+/Users/airevuchmann/Projects/Week4Loops/RandomNumber/obj/Debug/net7.0/RandomNumber.dll
+/Users/airevuchmann/Projects/Week4Loops/RandomNumber/obj/Debug/net7.0/refint/RandomNumber.dll
+/Users/airevuchmann/Projects/Week4Loops/RandomNumber/obj/Debug/net7.0/RandomNumber.pdb
+/Users/airevuchmann/Projects/Week4Loops/RandomNumber/obj/Debug/net7.0/RandomNumber.genruntimeconfig.cache
+/Users/airevuchmann/Projects/Week4Loops/RandomNumber/obj/Debug/net7.0/ref/RandomNumber.dll

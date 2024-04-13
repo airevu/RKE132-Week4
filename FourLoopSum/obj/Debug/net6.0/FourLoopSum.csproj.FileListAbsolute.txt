@@ -1,0 +1,15 @@
+/Users/airevuchmann/Projects/Week4Loops/FourLoopSum/bin/Debug/net6.0/FourLoopSum
+/Users/airevuchmann/Projects/Week4Loops/FourLoopSum/bin/Debug/net6.0/FourLoopSum.deps.json
+/Users/airevuchmann/Projects/Week4Loops/FourLoopSum/bin/Debug/net6.0/FourLoopSum.runtimeconfig.json
+/Users/airevuchmann/Projects/Week4Loops/FourLoopSum/bin/Debug/net6.0/FourLoopSum.dll
+/Users/airevuchmann/Projects/Week4Loops/FourLoopSum/bin/Debug/net6.0/FourLoopSum.pdb
+/Users/airevuchmann/Projects/Week4Loops/FourLoopSum/obj/Debug/net6.0/FourLoopSum.csproj.AssemblyReference.cache
+/Users/airevuchmann/Projects/Week4Loops/FourLoopSum/obj/Debug/net6.0/FourLoopSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/airevuchmann/Projects/Week4Loops/FourLoopSum/obj/Debug/net6.0/FourLoopSum.AssemblyInfoInputs.cache
+/Users/airevuchmann/Projects/Week4Loops/FourLoopSum/obj/Debug/net6.0/FourLoopSum.AssemblyInfo.cs
+/Users/airevuchmann/Projects/Week4Loops/FourLoopSum/obj/Debug/net6.0/FourLoopSum.csproj.CoreCompileInputs.cache
+/Users/airevuchmann/Projects/Week4Loops/FourLoopSum/obj/Debug/net6.0/FourLoopSum.dll
+/Users/airevuchmann/Projects/Week4Loops/FourLoopSum/obj/Debug/net6.0/refint/FourLoopSum.dll
+/Users/airevuchmann/Projects/Week4Loops/FourLoopSum/obj/Debug/net6.0/FourLoopSum.pdb
+/Users/airevuchmann/Projects/Week4Loops/FourLoopSum/obj/Debug/net6.0/FourLoopSum.genruntimeconfig.cache
+/Users/airevuchmann/Projects/Week4Loops/FourLoopSum/obj/Debug/net6.0/ref/FourLoopSum.dll

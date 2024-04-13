@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{9F8FF2C9-BFFE-4AD5-9AC8-13BCA0F44774}|Default">
+  <MonoDevelop.Ide.ItemProperties.WhileLoops PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WhileLoops/Program.cs">
+    <Files>
+      <File FileName="FourLoopSum/Program.cs" />
+      <File FileName="RandomNumber/Program.cs" />
+      <File FileName="Week4Loops/Program.cs" />
+      <File FileName="WhileLoops/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week4Loops" expanded="True" selected="True">
+            <Node name="FourLoopSum" expanded="True" />
+            <Node name="RandomNumber" expanded="True" />
+            <Node name="WhileLoops" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Week4Loops PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FourLoopSum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.RandomNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

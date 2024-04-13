@@ -1,0 +1,15 @@
+/Users/airevuchmann/Projects/Week4Loops/Week4Loops/bin/Debug/net6.0/Week4Loops
+/Users/airevuchmann/Projects/Week4Loops/Week4Loops/bin/Debug/net6.0/Week4Loops.deps.json
+/Users/airevuchmann/Projects/Week4Loops/Week4Loops/bin/Debug/net6.0/Week4Loops.runtimeconfig.json
+/Users/airevuchmann/Projects/Week4Loops/Week4Loops/bin/Debug/net6.0/Week4Loops.dll
+/Users/airevuchmann/Projects/Week4Loops/Week4Loops/bin/Debug/net6.0/Week4Loops.pdb
+/Users/airevuchmann/Projects/Week4Loops/Week4Loops/obj/Debug/net6.0/Week4Loops.csproj.AssemblyReference.cache
+/Users/airevuchmann/Projects/Week4Loops/Week4Loops/obj/Debug/net6.0/Week4Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/airevuchmann/Projects/Week4Loops/Week4Loops/obj/Debug/net6.0/Week4Loops.AssemblyInfoInputs.cache
+/Users/airevuchmann/Projects/Week4Loops/Week4Loops/obj/Debug/net6.0/Week4Loops.AssemblyInfo.cs
+/Users/airevuchmann/Projects/Week4Loops/Week4Loops/obj/Debug/net6.0/Week4Loops.csproj.CoreCompileInputs.cache
+/Users/airevuchmann/Projects/Week4Loops/Week4Loops/obj/Debug/net6.0/Week4Loops.dll
+/Users/airevuchmann/Projects/Week4Loops/Week4Loops/obj/Debug/net6.0/refint/Week4Loops.dll
+/Users/airevuchmann/Projects/Week4Loops/Week4Loops/obj/Debug/net6.0/Week4Loops.pdb
+/Users/airevuchmann/Projects/Week4Loops/Week4Loops/obj/Debug/net6.0/Week4Loops.genruntimeconfig.cache
+/Users/airevuchmann/Projects/Week4Loops/Week4Loops/obj/Debug/net6.0/ref/Week4Loops.dll
